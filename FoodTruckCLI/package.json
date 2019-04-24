@@ -1,0 +1,15 @@
+{
+  "name": "foodtruckfinder",
+  "version": "1.0.0",
+  "description": "Using this CLI tool, you can find Food trucks in the city of San Francisco",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenoye Naku",
+  "license": "MIT",
+  "dependencies": {
+    "prompts": "^2.0.4",
+    "request": "^2.88.0"
+  }
+}
